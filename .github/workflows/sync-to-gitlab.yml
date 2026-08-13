@@ -1,0 +1,19 @@
+#name: Sync to GitLab
+
+#on:
+  #push:
+    #branches: [main]
+
+#jobs:
+#  sync:
+#    runs-on: ubuntu-latest
+#    steps:
+#      - name: Sync to GitLab
+#        uses: kujov/gitlab-sync@main
+#        with:
+#          #gitlab_url: ${{ secrets.GITLAB_URL }}
+#          #username: ${{ secrets.USERNAME }}
+#          #gitlab_pat: ${{ secrets.GITLAB_PAT }}
+#          gitlab_url: 'https://gitlab.com/atomz-group/data/dev/agentic-data-platform.git'
+#          username: 'PackMaaan'
+#          gitlab_pat: ''
