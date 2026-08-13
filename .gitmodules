@@ -1,0 +1,6 @@
+[submodule "code-skills"]
+	path = code-skills
+	url = https://github.com/Atomz-org/claude-copilot-skills.git
+[submodule "evidence-bi"]
+	path = evidence-bi
+	url = https://github.com/Atomz-org/Evidence-BI.git
